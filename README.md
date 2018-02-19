@@ -19,11 +19,14 @@ Introduction to Python modules commonly used in scientific computation, such as 
 * Part 3: Matplotlib and Pyplot
 * Part 4: Randomness and Time
 
-#### Weeks 3 & 4: Case Studies
-This collection of six case studies from different disciplines provides opportunities to practice Python research skills.
+#### Week 3: Case Studies
+Three case studies from different disciplines provides opportunities to practice Python research skills.
 * Case Study 1: DNA Translation
 * Case Study 2: Language Processing
 * Case Study 3: Introduction to Classification
+
+#### Week 4: Case Studies
+Three more case studies from different disciplines provides opportunities to practice Python research skills.
 * Case Study 4: Classifying Whiskies
 * Case Study 5: Bird Migration
 * Case Study 6: Social Network Analysis
