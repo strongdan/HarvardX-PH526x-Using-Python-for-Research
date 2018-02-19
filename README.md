@@ -1,5 +1,4 @@
-# HarvardX-PH526x-Using-Python-for-Research
-
+# HarvardX PH526x: Using Python for Research
 HarvardX/EdX course that bridges the gap between introductory and advanced courses in Python
 
 ---
