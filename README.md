@@ -1,6 +1,8 @@
 # [HarvardX PH526x: Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x-0)
 EdX course that bridges the gap between introductory and advanced courses in Python
 
+JupyterLab notebooks available [here](https://mybinder.org/v2/gh/strongdan/HarvardX-PH526x-Using-Python-for-Research/master)
+
 ---
 
 ### Course Syllabus
